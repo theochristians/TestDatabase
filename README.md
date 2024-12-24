@@ -145,3 +145,12 @@ Contributions are welcome! Feel free to submit additional queries or improvement
 ## License
 This project is licensed under the MIT License.
 
+
+![image](https://github.com/user-attachments/assets/b56f2207-1d10-448d-9c30-f4c5f2e6f8c1)
+![image](https://github.com/user-attachments/assets/d0399a62-b7a3-4279-a829-64fc6beeece7)
+![image](https://github.com/user-attachments/assets/a5bee708-0199-4a69-b342-d55694b665f4)
+![image](https://github.com/user-attachments/assets/72f7c0db-4cfa-411d-8905-22d20fb322f0)
+![image](https://github.com/user-attachments/assets/6a7591b7-8c72-492f-b487-39f3dad9297e)
+![image](https://github.com/user-attachments/assets/d95e8fb6-1737-404f-8896-56f3527eada8)
+![image](https://github.com/user-attachments/assets/8632ced9-62d5-4577-8aa7-dd675100cf6a)
+
